@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="3" passed="3" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2022-02-22T09:56:33 EET" name="Default suite" finished-at="2022-02-22T09:56:40 EET" duration-ms="6246">
+  <suite started-at="2022-03-05T23:48:21 EET" name="Default suite" finished-at="2022-03-05T23:48:30 EET" duration-ms="9014">
     <groups>
     </groups>
-    <test started-at="2022-02-22T09:56:33 EET" name="Default test" finished-at="2022-02-22T09:56:40 EET" duration-ms="6246">
+    <test started-at="2022-03-05T23:48:21 EET" name="Default test" finished-at="2022-03-05T23:48:30 EET" duration-ms="9014">
       <class name="rest_test.rest_test_ex">
-        <test-method signature="getposts()[pri:0, instance:rest_test.rest_test_ex@7671cb68]" started-at="2022-02-22T09:56:33 EET" name="getposts" finished-at="2022-02-22T09:56:37 EET" duration-ms="3885" status="PASS">
+        <test-method signature="getposts()[pri:0, instance:rest_test.rest_test_ex@7671cb68]" started-at="2022-03-05T23:48:21 EET" name="getposts" finished-at="2022-03-05T23:48:27 EET" duration-ms="5816" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getposts -->
-        <test-method signature="getrequesttest()[pri:0, instance:rest_test.rest_test_ex@7671cb68]" started-at="2022-02-22T09:56:37 EET" name="getrequesttest" finished-at="2022-02-22T09:56:39 EET" duration-ms="1357" status="PASS">
+        <test-method signature="getrequesttest()[pri:0, instance:rest_test.rest_test_ex@7671cb68]" started-at="2022-03-05T23:48:27 EET" name="getrequesttest" finished-at="2022-03-05T23:48:28 EET" duration-ms="1351" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- getrequesttest -->
-        <test-method signature="postrequesttest()[pri:0, instance:rest_test.rest_test_ex@7671cb68]" started-at="2022-02-22T09:56:39 EET" name="postrequesttest" finished-at="2022-02-22T09:56:40 EET" duration-ms="921" status="PASS">
+        <test-method signature="postrequesttest()[pri:0, instance:rest_test.rest_test_ex@7671cb68]" started-at="2022-03-05T23:48:28 EET" name="postrequesttest" finished-at="2022-03-05T23:48:30 EET" duration-ms="1777" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- postrequesttest -->

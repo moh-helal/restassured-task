@@ -5,7 +5,7 @@
     <classes>
       <class name="rest_test.rest_test_ex">
         <methods>
-          <include name="userpost"/>
+          <include name="postrequesttest"/>
         </methods>
       </class> <!-- rest_test.rest_test_ex -->
     </classes>
